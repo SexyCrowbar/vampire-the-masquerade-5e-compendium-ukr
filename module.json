@@ -53,7 +53,7 @@
     },
     {
       "name": "advantages-flaws",
-      "label": "Переваги та Недоліки",
+      "label": "Переваги та Вади",
       "path": "packs/advantages-flaws",
       "type": "Item",
       "system": "vtm5e",
@@ -63,6 +63,7 @@
       }
     }
   ],
+  "url": "https://foundryvtt.com/packages/vampire-the-masquerade-5e-compendium-ukr",
   "description": "",
   "flags": {}
 }
