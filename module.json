@@ -1,9 +1,9 @@
 {
   "id": "vampire-the-masquerade-5e-compendium-ukr",
   "title": "Vampire the Masquerade 5e Компендіум",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "manifest": "https://github.com/SexyCrowbar/vampire-the-masquerade-5e-compendium-ukr/releases/latest/download/module.json",
-  "download": "https://github.com/SexyCrowbar/vampire-the-masquerade-5e-compendium-ukr/releases/download/1.0.2/module.zip",
+  "download": "https://github.com/SexyCrowbar/vampire-the-masquerade-5e-compendium-ukr/releases/download/1.0.3/module.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
@@ -11,7 +11,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "vtm5e",
+        "id": "wod5e",
         "type": "system",
         "compatibility": {}
       }
@@ -23,7 +23,7 @@
       "label": "Клани",
       "path": "packs/clans",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -34,7 +34,7 @@
       "label": "Дисциплини",
       "path": "packs/disciplines",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -45,7 +45,7 @@
       "label": "Сила крові та Тип хижака",
       "path": "packs/blood-potency-predator-type",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -56,7 +56,7 @@
       "label": "Переваги та Вади",
       "path": "packs/advantages-flaws",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
